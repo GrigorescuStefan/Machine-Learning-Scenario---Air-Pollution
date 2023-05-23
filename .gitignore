@@ -1,0 +1,11 @@
+# Firestore Database Credentials
+serviceAccountKey.json
+
+# csv file read onto
+air_pollution.csv
+
+# csv file with complete data
+temp_air_pollution.csv
+
+#temp files
+__pycache__
