@@ -5,7 +5,16 @@ serviceAccountKey.json
 air_pollution.csv
 
 # csv file with complete data
-temp_air_pollution.csv
+processed_air_pollution.csv
 
 #temp files
 __pycache__
+
+#AQI_Category joblib
+AQI_Category.joblib
+
+#Label Encoder joblib
+Label_Encoder.joblib
+
+#country codes json
+country_codes.json
